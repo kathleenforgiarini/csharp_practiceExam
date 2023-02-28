@@ -1,0 +1,11 @@
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\bin\Debug\testtestsection3.exe.config
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\bin\Debug\testtestsection3.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\bin\Debug\testtestsection3.pdb
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.csproj.AssemblyReference.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.frmAreaConvert.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.Properties.Resources.resources
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.csproj.GenerateResource.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.csproj.CoreCompileInputs.cache
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.exe
+C:\Users\kforg\OneDrive\Área de Trabalho\LaSalle\Winter 2023\Object Oriented Programming concepts\Test test 28022023\testtestsection3\obj\Debug\testtestsection3.pdb
